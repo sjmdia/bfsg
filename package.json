@@ -1,0 +1,14 @@
+{
+  "name": "bfsg-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.3.8",
+    "axe-core": "^4.8.2"
+  }
+}
